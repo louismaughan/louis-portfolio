@@ -1,0 +1,48 @@
+---
+title: "Finding undervalued midfielders"
+description: "A recruitment case study: Python analysis plus a Power BI player comparison dashboard. (Placeholder: replace with your own project.)"
+date: "2026-11-15"
+categories: [recruitment, python, power-bi]
+---
+
+::: {.callout-note}
+This is a template for a project page. Replace the text in each section with your own work. Delete this note when you're done.
+:::
+
+## The question
+
+*One sentence on what you wanted to find out, in football terms. For example: which midfielders in a given league are doing the work of a more expensive player, and who should a club take a closer look at?*
+
+## The data
+
+*Where the data came from (e.g. StatsBomb open data, FBref), the competitions and seasons you used, and any limits you should be honest about, such as sample size or minutes played.*
+
+## The method
+
+*A short plain-English walkthrough: how you cleaned the data, which metrics you built (per-90 numbers, percentile ranks, role filters) and why you chose them.*
+
+```python
+# Include the key snippet of analysis here, or link to the full notebook on GitHub.
+import pandas as pd
+```
+
+## The dashboard
+
+*Embed your Power BI report here. If "Publish to web" isn't available on your account, use a screenshot and link to the .pbix file in your GitHub repo.*
+
+```html
+<!-- Paste the Power BI embed iframe here, using the dashboard-embed class: -->
+<!-- <iframe class="dashboard-embed" src="YOUR-POWER-BI-PUBLISH-TO-WEB-URL" allowfullscreen></iframe> -->
+```
+
+## What I found
+
+*Your two or three key findings, written for a head of recruitment rather than a data scientist.*
+
+## What a club could do with this
+
+*The "so what". How would a recruitment team, coach or analyst actually use this? What would you do next with more data?*
+
+## Code and data
+
+- [GitHub repository](https://github.com/YOUR-GITHUB-USERNAME/YOUR-PROJECT-REPO)

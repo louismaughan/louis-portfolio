@@ -1,0 +1,38 @@
+---
+title: "About me"
+---
+
+I'm Louis Maughan, and football has been the constant in my life for as long as I can remember. I've spent years watching it, talking about it and playing it as an amateur, and somewhere along the way I started wondering what the numbers could tell us that our eyes and arguments in the pub couldn't.
+
+That curiosity is why I'm now studying for an **MSc in Data Analytics in Football**, and why I'm making a career change into the game's analytics side.
+
+## Why football analytics?
+
+*[Add a short, honest paragraph here: what pulled you towards data, a moment when a stat changed how you saw a match, and what you hope to do in the industry, such as recruitment, performance analysis or opposition analysis.]*
+
+## What I bring
+
+- **Football knowledge from the pitch and the stands.** As an amateur player, I know what it feels like to play in a system, not just read about one. *[Add your position, level or league if you'd like.]*
+- **Technical skills.** Python for data wrangling, analysis and visualisation, and Power BI for dashboards people can actually use.
+- **Clear communication.** I try to explain what the data means in plain football language, because an insight nobody understands doesn't change any decisions.
+- **A fresh perspective.** I'm coming from a different career, which means I bring experience from outside the game. *[Add one or two lines about your previous work and the transferable skills: stakeholder communication, reporting, working to deadlines.]*
+
+## Skills and tools
+
+| Area | Tools and methods |
+|---|---|
+| Data analysis | Python (pandas, NumPy), exploratory analysis, per-90 and percentile metrics |
+| Football data | StatsBomb open data, event data, *[add others you've used, e.g. FBref, Understat]* |
+| Visualisation | mplsoccer, matplotlib, Power BI |
+| Modelling | scikit-learn, *[add xG or other models you've built]* |
+| Other | Git and GitHub, Quarto, *[add SQL or anything else you use]* |
+
+*[Tip: as you finish projects, link each skill to the project that proves it.]*
+
+## Outside the data
+
+*[A couple of lines on who you support, how you play, or anything else that makes you memorable. This is your personal page, so keep it human.]*
+
+## Get in touch
+
+I'd love to hear from anyone working in or around football analytics. You can find me on the [contact page](contact.qmd).

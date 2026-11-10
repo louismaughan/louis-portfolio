@@ -1,0 +1,33 @@
+/*-- scss:defaults --*/
+$primary: #0b3d2e;      // pitch green
+$link-color: #0b7a4b;
+$font-family-sans-serif: "Inter", "Helvetica Neue", Arial, sans-serif;
+
+/*-- scss:rules --*/
+.hero {
+  padding: 2.5rem 0 1.5rem 0;
+}
+
+.hero h1 {
+  font-size: 2.6rem;
+  font-weight: 700;
+}
+
+.tagline {
+  font-size: 1.25rem;
+  color: #555;
+}
+
+.callout-box {
+  border-left: 4px solid $primary;
+  padding: 0.75rem 1rem;
+  background: #f4f8f6;
+  margin: 1.5rem 0;
+}
+
+.dashboard-embed {
+  width: 100%;
+  min-height: 600px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}

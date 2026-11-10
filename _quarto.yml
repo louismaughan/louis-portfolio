@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Louis Maughan"
+  description: "Football data analytics portfolio: projects, dashboards and writing."
+  site-url: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME
+  repo-url: https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
+  favicon: favicon.png
+  navbar:
+    background: primary
+    right:
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects/index.qmd
+      - text: Blog
+        href: blog/index.qmd
+      - text: About
+        href: about.qmd
+      - text: Contact
+        href: contact.qmd
+    tools:
+      - icon: github
+        href: https://github.com/YOUR-GITHUB-USERNAME
+      - icon: linkedin
+        href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
+  page-footer:
+    center: "© 2026 Louis Maughan. Built with Quarto."
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles.scss]
+    toc: true
+    code-fold: true
+    code-tools: true
+    link-external-newwindow: true
+
+execute:
+  # Python runs on your machine and the results are saved (frozen),
+  # so GitHub doesn't need to re-run your analysis when it publishes.
+  freeze: auto

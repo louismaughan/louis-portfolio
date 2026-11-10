@@ -1,0 +1,13 @@
+﻿---
+title: "Projects"
+subtitle: "Case studies and dashboards, each one starting from a football question."
+listing:
+  contents:
+    - "*.qmd"
+  type: grid
+  grid-columns: 2
+  sort: "date desc"
+  fields: [image, title, description, categories, date]
+  categories: true
+page-layout: full
+---

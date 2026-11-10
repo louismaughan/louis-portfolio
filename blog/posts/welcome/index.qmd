@@ -1,0 +1,22 @@
+---
+title: "Welcome: why I'm learning football analytics in public"
+description: "Who I am, what I'm studying, and what you can expect from this site."
+date: "2026-10-30"
+categories: [intro]
+---
+
+I've loved football for as long as I can remember. I've watched it, argued about it and played it as an amateur, and at some point I started to wonder what the data could add to all of that.
+
+Now I'm studying for an MSc in Data Analytics in Football, and I'm aiming to turn that curiosity into a career. This site is where I'll show my working.
+
+## What to expect
+
+- **Projects and dashboards** built with Python and Power BI, each starting from a real football question.
+- **Short write-ups** explaining what I found in plain language, not just the code.
+- **Honest notes** on what worked, what didn't, and what I'd do differently.
+
+## What's next
+
+*[Add one or two sentences on the first project you're working on, so readers know what's coming.]*
+
+If you work in or around football analytics, I'd love to hear from you. Get in touch via the [contact page](../../../contact.qmd).
