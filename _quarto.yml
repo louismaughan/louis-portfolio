@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Louis Maughan"
+  title: "Louis Maughan - football analysis"
   description: "Football data analytics portfolio: projects, dashboards and writing."
   site-url: https://louismaughan.github.io/louis-portfolio
   repo-url: https://github.com/louismaughan/louis-portfolio
@@ -24,7 +24,7 @@ website:
       - icon: github
         href: https://github.com/louismaughan
       - icon: linkedin
-        href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
+        href: https://www.linkedin.com/in/louismaughan
   page-footer:
     center: "© 2026 Louis Maughan. Built with Quarto."
 
