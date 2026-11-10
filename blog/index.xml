@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Louis Maughan</title>
+<link>https://louismaughan.github.io/louis-portfolio/blog/</link>
+<atom:link href="https://louismaughan.github.io/louis-portfolio/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>Football data analytics portfolio: projects, dashboards and writing.</description>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Fri, 30 Oct 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Welcome: why I’m learning football analytics in public</title>
+  <link>https://louismaughan.github.io/louis-portfolio/blog/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>I’ve loved football for as long as I can remember. I’ve watched it, argued about it and played it as an amateur, and at some point I started to wonder what the data could add to all of that.</p>
+<p>Now I’m studying for an MSc in Data Analytics in Football, and I’m aiming to turn that curiosity into a career. This site is where I’ll show my working.</p>
+<section id="what-to-expect" class="level2">
+<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<ul>
+<li><strong>Projects and dashboards</strong> built with Python and Power BI, each starting from a real football question.</li>
+<li><strong>Short write-ups</strong> explaining what I found in plain language, not just the code.</li>
+<li><strong>Honest notes</strong> on what worked, what didn’t, and what I’d do differently.</li>
+</ul>
+</section>
+<section id="whats-next" class="level2">
+<h2 class="anchored" data-anchor-id="whats-next">What’s next</h2>
+<p><em>[Add one or two sentences on the first project you’re working on, so readers know what’s coming.]</em></p>
+<p>If you work in or around football analytics, I’d love to hear from you. Get in touch via the <a href="../../../contact.html">contact page</a>.</p>
+
+
+<!-- -->
+
+</section>
+
+ ]]></description>
+  <category>intro</category>
+  <guid>https://louismaughan.github.io/louis-portfolio/blog/posts/welcome/</guid>
+  <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
