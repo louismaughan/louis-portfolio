@@ -4,8 +4,8 @@ project:
 website:
   title: "Louis Maughan"
   description: "Football data analytics portfolio: projects, dashboards and writing."
-  site-url: https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPO-NAME
-  repo-url: https://github.com/YOUR-GITHUB-USERNAME/YOUR-REPO-NAME
+  site-url: https://louismaughan.github.io/louis-portfolio
+  repo-url: https://github.com/louismaughan/louis-portfolio
   favicon: favicon.png
   navbar:
     background: primary
@@ -22,7 +22,7 @@ website:
         href: contact.qmd
     tools:
       - icon: github
-        href: https://github.com/YOUR-GITHUB-USERNAME
+        href: https://github.com/louismaughan
       - icon: linkedin
         href: https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE
   page-footer:

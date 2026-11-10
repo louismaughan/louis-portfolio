@@ -4,13 +4,8 @@ title: "Contact"
 
 The best way to reach me is through any of these:
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-- **GitHub:** [github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)
+- **LinkedIn:** [linkedin.com/in/louismaughan](https://www.linkedin.com/in/louis-maughan-7537593a)
+- **GitHub:** [github.com/louismaughan](https://github.com/louismaughan)
 - **X / Bluesky:** *[add your handle]*
 
-## CV
 
-You can download my CV here: [Louis Maughan CV (PDF)](assets/Louis-Maughan-CV.pdf)
-
-*(Add your CV as `assets/Louis-Maughan-CV.pdf`, or delete this section.)*

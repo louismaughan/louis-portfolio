@@ -7,22 +7,22 @@ page-layout: full
 ::: {.hero}
 # Hi, I'm Louis.
 
-<p class="tagline">I'm turning a lifelong love of football into a career in data analytics. This is where I share the projects, dashboards and writing I'm building along the way.</p>
+<p class="tagline">I'm turning a lifelong love of football into a career in data analytics. I'm a West Ham season ticket holder currently studying a MSc Data Analytics in Football. I'm hosting my work here and looking for opportunities for real world analytics experience</p>
 
 [See my projects](projects/index.qmd){.btn .btn-primary .btn-lg} [Read the blog](blog/index.qmd){.btn .btn-outline-primary .btn-lg}
 :::
 
 ## What I do
 
-I'm studying for an MSc in Data Analytics in Football, and I use **Python** and **Power BI** to ask practical questions about the game: who should a club look at, how does a team really play, and what should a coach take from the next match.
+My main interests are opposition analysis, scouting analysis and predictive modeling using expected goals. I use **Python** and **Power BI** to ask practical questions about the game: who should a club look at, how does a team really play, and what should a coach take from the next match.
 
 ## Featured project
 
 ::: {.callout-box}
-**Coming soon: your best project goes here.**
+**Coming soon:**
 
-Replace this with a one or two line summary of your strongest piece of work and a link to its page, for example:
-[Finding undervalued midfielders: a recruitment dashboard](projects/recruitment-dashboard.qmd)
+West Ham 2026/27 season performance dashboard:
+[West Ham season dashboard (Power BI)](projects/recruitment-dashboard.qmd)
 :::
 
 ## Latest writing
