@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I’m Louis Maughan, and football has been the constant in my life for as long as I can remember. I’ve spent years watching it, talking about it and playing it as an amateur, and somewhere along the way I started wondering what the numbers could tell us that our eyes and arguments in the pub couldn’t.\nThat curiosity is why I’m now studying for an MSc in Data Analytics in Football, and why I’m making a career change into the game’s analytics side."
+  },
+  {
+    "objectID": "about.html#why-football-analytics",
+    "href": "about.html#why-football-analytics",
+    "title": "About me",
+    "section": "Why football analytics?",
+    "text": "Why football analytics?\n[Add a short, honest paragraph here: what pulled you towards data, a moment when a stat changed how you saw a match, and what you hope to do in the industry, such as recruitment, performance analysis or opposition analysis.]"
+  },
+  {
+    "objectID": "about.html#what-i-bring",
+    "href": "about.html#what-i-bring",
+    "title": "About me",
+    "section": "What I bring",
+    "text": "What I bring\n\nFootball knowledge from the pitch and the stands. As an amateur player, I know what it feels like to play in a system, not just read about one. [Add your position, level or league if you’d like.]\nTechnical skills. Python for data wrangling, analysis and visualisation, and Power BI for dashboards people can actually use.\nClear communication. I try to explain what the data means in plain football language, because an insight nobody understands doesn’t change any decisions.\nA fresh perspective. I’m coming from a different career, which means I bring experience from outside the game. [Add one or two lines about your previous work and the transferable skills: stakeholder communication, reporting, working to deadlines.]"
+  },
+  {
+    "objectID": "about.html#skills-and-tools",
+    "href": "about.html#skills-and-tools",
+    "title": "About me",
+    "section": "Skills and tools",
+    "text": "Skills and tools\n\n\n\n\n\n\n\nArea\nTools and methods\n\n\n\n\nData analysis\nPython (pandas, NumPy), exploratory analysis, per-90 and percentile metrics\n\n\nFootball data\nStatsBomb open data, event data, [add others you’ve used, e.g. FBref, Understat]\n\n\nVisualisation\nmplsoccer, matplotlib, Power BI\n\n\nModelling\nscikit-learn, [add xG or other models you’ve built]\n\n\nOther\nGit and GitHub, Quarto, [add SQL or anything else you use]\n\n\n\n[Tip: as you finish projects, link each skill to the project that proves it.]"
+  },
+  {
+    "objectID": "about.html#outside-the-data",
+    "href": "about.html#outside-the-data",
+    "title": "About me",
+    "section": "Outside the data",
+    "text": "Outside the data\n[A couple of lines on who you support, how you play, or anything else that makes you memorable. This is your personal page, so keep it human.]"
+  },
+  {
+    "objectID": "about.html#get-in-touch",
+    "href": "about.html#get-in-touch",
+    "title": "About me",
+    "section": "Get in touch",
+    "text": "Get in touch\nI’d love to hear from anyone working in or around football analytics. You can find me on the contact page."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Welcome: why I’m learning football analytics in public\n\n\n\nintro\n\n\n\n\nWho I am, what I’m studying, and what you can expect from this site.\n\n\n\n\n\n\nOct 30, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is through any of these:\n\nLinkedIn: linkedin.com/in/louismaughan\nGitHub: github.com/louismaughan\nX / Bluesky: [add your handle]"
+  },
+  {
     "objectID": "projects/recruitment-dashboard.html",
     "href": "projects/recruitment-dashboard.html",
     "title": "Finding undervalued midfielders",
@@ -56,34 +112,6 @@
     "text": "Code and data\n\nGitHub repository"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "index.html#what-i-do",
-    "href": "index.html#what-i-do",
-    "title": "",
-    "section": "What I do",
-    "text": "What I do\nI’m studying for an MSc in Data Analytics in Football, and I use Python and Power BI to ask practical questions about the game: who should a club look at, how does a team really play, and what should a coach take from the next match."
-  },
-  {
-    "objectID": "index.html#featured-project",
-    "href": "index.html#featured-project",
-    "title": "",
-    "section": "Featured project",
-    "text": "Featured project\n\nComing soon: your best project goes here.\nReplace this with a one or two line summary of your strongest piece of work and a link to its page, for example: Finding undervalued midfielders: a recruitment dashboard"
-  },
-  {
-    "objectID": "index.html#latest-writing",
-    "href": "index.html#latest-writing",
-    "title": "",
-    "section": "Latest writing",
-    "text": "Latest writing\nSee the blog for my latest posts."
-  },
-  {
     "objectID": "blog/posts/welcome/index.html",
     "href": "blog/posts/welcome/index.html",
     "title": "Welcome: why I’m learning football analytics in public",
@@ -105,66 +133,31 @@
     "text": "What’s next\n[Add one or two sentences on the first project you’re working on, so readers know what’s coming.]\nIf you work in or around football analytics, I’d love to hear from you. Get in touch via the contact page."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About me",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "",
     "section": "",
-    "text": "I’m Louis Maughan, and football has been the constant in my life for as long as I can remember. I’ve spent years watching it, talking about it and playing it as an amateur, and somewhere along the way I started wondering what the numbers could tell us that our eyes and arguments in the pub couldn’t.\nThat curiosity is why I’m now studying for an MSc in Data Analytics in Football, and why I’m making a career change into the game’s analytics side."
+    "text": "Code"
   },
   {
-    "objectID": "about.html#why-football-analytics",
-    "href": "about.html#why-football-analytics",
-    "title": "About me",
-    "section": "Why football analytics?",
-    "text": "Why football analytics?\n[Add a short, honest paragraph here: what pulled you towards data, a moment when a stat changed how you saw a match, and what you hope to do in the industry, such as recruitment, performance analysis or opposition analysis.]"
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "",
+    "section": "What I do",
+    "text": "What I do\nMy main interests are opposition analysis, scouting analysis and predictive modeling using expected goals. I use Python and Power BI to ask practical questions about the game: who should a club look at, how does a team really play, and what should a coach take from the next match."
   },
   {
-    "objectID": "about.html#what-i-bring",
-    "href": "about.html#what-i-bring",
-    "title": "About me",
-    "section": "What I bring",
-    "text": "What I bring\n\nFootball knowledge from the pitch and the stands. As an amateur player, I know what it feels like to play in a system, not just read about one. [Add your position, level or league if you’d like.]\nTechnical skills. Python for data wrangling, analysis and visualisation, and Power BI for dashboards people can actually use.\nClear communication. I try to explain what the data means in plain football language, because an insight nobody understands doesn’t change any decisions.\nA fresh perspective. I’m coming from a different career, which means I bring experience from outside the game. [Add one or two lines about your previous work and the transferable skills: stakeholder communication, reporting, working to deadlines.]"
+    "objectID": "index.html#featured-project",
+    "href": "index.html#featured-project",
+    "title": "",
+    "section": "Featured project",
+    "text": "Featured project\n\nComing soon:\nWest Ham 2026/27 season performance dashboard: West Ham season dashboard (Power BI)"
   },
   {
-    "objectID": "about.html#skills-and-tools",
-    "href": "about.html#skills-and-tools",
-    "title": "About me",
-    "section": "Skills and tools",
-    "text": "Skills and tools\n\n\n\n\n\n\n\nArea\nTools and methods\n\n\n\n\nData analysis\nPython (pandas, NumPy), exploratory analysis, per-90 and percentile metrics\n\n\nFootball data\nStatsBomb open data, event data, [add others you’ve used, e.g. FBref, Understat]\n\n\nVisualisation\nmplsoccer, matplotlib, Power BI\n\n\nModelling\nscikit-learn, [add xG or other models you’ve built]\n\n\nOther\nGit and GitHub, Quarto, [add SQL or anything else you use]\n\n\n\n[Tip: as you finish projects, link each skill to the project that proves it.]"
-  },
-  {
-    "objectID": "about.html#outside-the-data",
-    "href": "about.html#outside-the-data",
-    "title": "About me",
-    "section": "Outside the data",
-    "text": "Outside the data\n[A couple of lines on who you support, how you play, or anything else that makes you memorable. This is your personal page, so keep it human.]"
-  },
-  {
-    "objectID": "about.html#get-in-touch",
-    "href": "about.html#get-in-touch",
-    "title": "About me",
-    "section": "Get in touch",
-    "text": "Get in touch\nI’d love to hear from anyone working in or around football analytics. You can find me on the contact page."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "Welcome: why I’m learning football analytics in public\n\n\n\nintro\n\n\n\n\nWho I am, what I’m studying, and what you can expect from this site.\n\n\n\n\n\n\nOct 30, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "The best way to reach me is through any of these:"
-  },
-  {
-    "objectID": "contact.html#cv",
-    "href": "contact.html#cv",
-    "title": "Contact",
-    "section": "CV",
-    "text": "CV\nYou can download my CV here: Louis Maughan CV (PDF)\n(Add your CV as assets/Louis-Maughan-CV.pdf, or delete this section.)"
+    "objectID": "index.html#latest-writing",
+    "href": "index.html#latest-writing",
+    "title": "",
+    "section": "Latest writing",
+    "text": "Latest writing\nSee the blog for my latest posts."
   }
 ]
