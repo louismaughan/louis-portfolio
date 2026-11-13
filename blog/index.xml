@@ -10,28 +10,39 @@
 <atom:link href="https://louismaughan.github.io/louis-portfolio/blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>Football data analytics portfolio: projects, dashboards and writing.</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Fri, 30 Oct 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 00:00:00 GMT</lastBuildDate>
 <item>
-  <title>Welcome: why I’m learning football analytics in public</title>
+  <title>Where is it going wrong? Left back: part 1</title>
   <link>https://louismaughan.github.io/louis-portfolio/blog/posts/welcome/</link>
   <description><![CDATA[ 
 
 
 
 
-<p>I’ve loved football for as long as I can remember. I’ve watched it, argued about it and played it as an amateur, and at some point I started to wonder what the data could add to all of that.</p>
-<p>Now I’m studying for an MSc in Data Analytics in Football, and I’m aiming to turn that curiosity into a career. This site is where I’ll show my working.</p>
-<section id="what-to-expect" class="level2">
-<h2 class="anchored" data-anchor-id="what-to-expect">What to expect</h2>
+<p>West Ham are already onto their second manager of the season, despite only being 6 points off the league in the Championship. Fan are not happy and several players are getting the brunt of the blame.</p>
+<p>Let’s leave the keeper for now but on-loan left back Morato has received a fair amount of criticism. He was brought in by Nuno from his old club Nottingham Forest, with some let’s day mixed feedback from Forest fans but was still expected to perform well in the econd tier.</p>
+<p>Let’s use the data to assess just how well Morato has performed and see if West Ham need to spend to get an upgrade or if the answer might already be at the London Stadium.</p>
+<section id="how-is-morato-performing" class="level2">
+<h2 class="anchored" data-anchor-id="how-is-morato-performing">How is Morato performing?</h2>
+<p>Morato seemed to have secured the left back starting position from Olly Scarles who started the season in that spot but made a couple of costly errors. Morato has played 617 minutes compared to Scarles’ 507 and was started both of the home defeats against Southampton and West Brom.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://louismaughan.github.io/louis-portfolio/blog1.png" class="img-fluid figure-img"></p>
+<figcaption>Morato v league average radar plot</figcaption>
+</figure>
+</div>
+<p>The above radar of Morato’s performance this season shows how he comppares to the average of Championship left backs this season. We can see that he’s done OK in certain areas. It also gives us an idea of the job Nuno wanted him to do. Be solid defensively and link play on the left and into midfield. For that role we can say he’s probably done an OK job.</p>
+<p>Morato has struggled , however, to provide much threat as an attacking force. His total 0.36 of expected assits so far is only 0.02 more than Scarles and his 1.6 crosses per 90 minutes puts him way down the list of Championship full backs. Scarles, who has been criticised for his attacking play, attempts exactly double the number of crosses.</p>
+<p>With Manor Soloman struggling to make an impact and Austbo still adjusting to life in England only 30% of West Ham’ attack have come down the left comapred to 36% through the middle and 34% down the right. They could do with some help on that side.</p>
 <ul>
 <li><strong>Projects and dashboards</strong> built with Python and Power BI, each starting from a real football question.</li>
 <li><strong>Short write-ups</strong> explaining what I found in plain language, not just the code.</li>
 <li><strong>Honest notes</strong> on what worked, what didn’t, and what I’d do differently.</li>
 </ul>
 </section>
-<section id="whats-next" class="level2">
-<h2 class="anchored" data-anchor-id="whats-next">What’s next</h2>
-<p><em>[Add one or two sentences on the first project you’re working on, so readers know what’s coming.]</em></p>
+<section id="do-west-ham-already-have-a-better-left-back" class="level2">
+<h2 class="anchored" data-anchor-id="do-west-ham-already-have-a-better-left-back">Do West Ham already have a better left back?</h2>
+<p>As we have already seen from a quick look at the data it may be that West Ham already have an upgrade in the squad in the shape of Ollie Scarles. He seemed to suffer from a lack of confidence after his mistakes early in the season but a new start under a new manager could be exactly what he needs.</p>
 <p>If you work in or around football analytics, I’d love to hear from you. Get in touch via the <a href="../../../contact.html">contact page</a>.</p>
 
 
@@ -40,9 +51,9 @@
 </section>
 
  ]]></description>
-  <category>intro</category>
+  <category>Performance analyis</category>
   <guid>https://louismaughan.github.io/louis-portfolio/blog/posts/welcome/</guid>
-  <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+  <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

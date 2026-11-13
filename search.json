@@ -46,7 +46,7 @@
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "Welcome: why I’m learning football analytics in public\n\n\n\nintro\n\n\n\n\nWho I am, what I’m studying, and what you can expect from this site.\n\n\n\n\n\n\nOct 30, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Where is it going wrong? Left back: part 1\n\n\n\nPerformance analyis\n\n\n\n\nHow are West Ham really doing at left back and do we need a replacement in January?.\n\n\n\n\n\n\nNov 11, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -114,23 +114,23 @@
   {
     "objectID": "blog/posts/welcome/index.html",
     "href": "blog/posts/welcome/index.html",
-    "title": "Welcome: why I’m learning football analytics in public",
+    "title": "Where is it going wrong? Left back: part 1",
     "section": "",
-    "text": "I’ve loved football for as long as I can remember. I’ve watched it, argued about it and played it as an amateur, and at some point I started to wonder what the data could add to all of that.\nNow I’m studying for an MSc in Data Analytics in Football, and I’m aiming to turn that curiosity into a career. This site is where I’ll show my working."
+    "text": "West Ham are already onto their second manager of the season, despite only being 6 points off the league in the Championship. Fan are not happy and several players are getting the brunt of the blame.\nLet’s leave the keeper for now but on-loan left back Morato has received a fair amount of criticism. He was brought in by Nuno from his old club Nottingham Forest, with some let’s day mixed feedback from Forest fans but was still expected to perform well in the econd tier.\nLet’s use the data to assess just how well Morato has performed and see if West Ham need to spend to get an upgrade or if the answer might already be at the London Stadium."
   },
   {
-    "objectID": "blog/posts/welcome/index.html#what-to-expect",
-    "href": "blog/posts/welcome/index.html#what-to-expect",
-    "title": "Welcome: why I’m learning football analytics in public",
-    "section": "What to expect",
-    "text": "What to expect\n\nProjects and dashboards built with Python and Power BI, each starting from a real football question.\nShort write-ups explaining what I found in plain language, not just the code.\nHonest notes on what worked, what didn’t, and what I’d do differently."
+    "objectID": "blog/posts/welcome/index.html#how-is-morato-performing",
+    "href": "blog/posts/welcome/index.html#how-is-morato-performing",
+    "title": "Where is it going wrong? Left back: part 1",
+    "section": "How is Morato performing?",
+    "text": "How is Morato performing?\nMorato seemed to have secured the left back starting position from Olly Scarles who started the season in that spot but made a couple of costly errors. Morato has played 617 minutes compared to Scarles’ 507 and was started both of the home defeats against Southampton and West Brom.\n\n\n\nMorato v league average radar plot\n\n\nThe above radar of Morato’s performance this season shows how he comppares to the average of Championship left backs this season. We can see that he’s done OK in certain areas. It also gives us an idea of the job Nuno wanted him to do. Be solid defensively and link play on the left and into midfield. For that role we can say he’s probably done an OK job.\nMorato has struggled , however, to provide much threat as an attacking force. His total 0.36 of expected assits so far is only 0.02 more than Scarles and his 1.6 crosses per 90 minutes puts him way down the list of Championship full backs. Scarles, who has been criticised for his attacking play, attempts exactly double the number of crosses.\nWith Manor Soloman struggling to make an impact and Austbo still adjusting to life in England only 30% of West Ham’ attack have come down the left comapred to 36% through the middle and 34% down the right. They could do with some help on that side.\n\nProjects and dashboards built with Python and Power BI, each starting from a real football question.\nShort write-ups explaining what I found in plain language, not just the code.\nHonest notes on what worked, what didn’t, and what I’d do differently."
   },
   {
-    "objectID": "blog/posts/welcome/index.html#whats-next",
-    "href": "blog/posts/welcome/index.html#whats-next",
-    "title": "Welcome: why I’m learning football analytics in public",
-    "section": "What’s next",
-    "text": "What’s next\n[Add one or two sentences on the first project you’re working on, so readers know what’s coming.]\nIf you work in or around football analytics, I’d love to hear from you. Get in touch via the contact page."
+    "objectID": "blog/posts/welcome/index.html#do-west-ham-already-have-a-better-left-back",
+    "href": "blog/posts/welcome/index.html#do-west-ham-already-have-a-better-left-back",
+    "title": "Where is it going wrong? Left back: part 1",
+    "section": "Do West Ham already have a better left back?",
+    "text": "Do West Ham already have a better left back?\nAs we have already seen from a quick look at the data it may be that West Ham already have an upgrade in the squad in the shape of Ollie Scarles. He seemed to suffer from a lack of confidence after his mistakes early in the season but a new start under a new manager could be exactly what he needs.\nIf you work in or around football analytics, I’d love to hear from you. Get in touch via the contact page."
   },
   {
     "objectID": "index.html",
